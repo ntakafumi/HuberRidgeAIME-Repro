@@ -1,0 +1,14 @@
+HuberRidgeAIME Reproducibility Code and Notebook
+Copyright (c) 2025 Takafumi Nakanishi
+
+Permission is hereby granted, free of charge, to use, reproduce, and modify
+this code and accompanying materials for academic research and educational
+purposes.
+
+Commercial use of this code, in whole or in part, is not permitted without
+prior written permission. For inquiries regarding commercial licensing,
+please contact: takafumi@eigenbeats.com
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
