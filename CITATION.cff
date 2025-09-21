@@ -1,27 +1,11 @@
-cff-version: 1.０.0
-message: "If you use this notebook or code, please cite it as below."
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
 title: "HuberRidgeAIME Reproducibility Package"
+version: "1.0.1"
+date-released: 2025-09-21
 authors:
   - family-names: Nakanishi
     given-names: Takafumi
     affiliation: Tokyo University of Technology
     email: takafumi@eigenbeats.com
-orcid: 0000-0003-1029-6063
-title: HuberRidgeAIME
-version: v1.0.0
-date-released: "2025-09-22"
 license: "Other"
-repository-code: https://github.com/ntakafumi/HuberRidgeAIME-Repro"
-abstract: >
-  This repository contains the Jupyter notebook and dependencies needed
-  to reproduce all tables and figures reported in the paper
-  'HuberRidgeAIME: Robust Model-Agnostic Explanations under Outliers
-  and Multicollinearity'. It provides an implementation of HuberRidgeAIME
-  and baseline explainers, together with scripts to regenerate the reported
-  results.
-keywords:
-  - Explainable AI
-  - AIME
-  - Robustness
-  - Huber loss
-  - Ridge regularization
