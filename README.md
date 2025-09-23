@@ -19,7 +19,7 @@ We recommend Python 3.9 or newer. To set up a virtual environment:
 python -m venv .venv
 source .venv/bin/activate   # On Windows: .venv\Scripts\activate
 pip install -r requirements.txt
-
+```
 ##
 	2.	Open HuberRidgeAIME_Repro_Final.ipynb.
 	3.	Run all cells to regenerate:
@@ -53,3 +53,17 @@ For commercial licensing inquiries, please contact: takafumi@eigenbeats.com.
 For questions, please contact:
 Takafumi Nakanishi, Tokyo University of Technology
 Email: takafumi@eigenbeats.com
+
+
+## How to Cite
+If you use this code, please cite our paper and the dataset/model providers. A citable archive is available via Zenodo DOI: 10.5281/zenodo.17181202.
+
+@software{aime_theory_2025,
+  author  = {Takafumi Nakanishi},
+  title   = {HuberRidgeAIME},
+  year    = {2025},
+  publisher = {Zenodo},
+  version = {v1.0.0},
+  doi     = {10.5281/zenodo.17181202},
+  url     = {https://doi.org/10.5281/zenodo.17181202}
+}
