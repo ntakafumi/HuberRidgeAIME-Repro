@@ -1,4 +1,5 @@
 # HuberRidgeAIME Reproducibility Package
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17172827.svg)](https://doi.org/10.5281/zenodo.17172827)
 
 This repository provides the reproducibility package for the paper:
 
